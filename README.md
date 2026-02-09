@@ -35,12 +35,7 @@
 
 ---
 
-## কোর্স আউটলাইন (বই অনুসারে)
-
-### Foreword, Acknowledgments, Introduction
-- বইয়ের ভূমিকা, প্রাথমিক ধারণা এবং সেটআপ
-
----
+## কোর্স আউটলাইন 
 
 ### Part I: Neural Networks and Deep Learning
 1. Embeddings, Latent Space, and Representations  
